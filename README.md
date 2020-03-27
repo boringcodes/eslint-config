@@ -41,7 +41,7 @@
 Use the package manager to install
 
 ```bash
-yarn add @boringcodes/eslint-config --dev
+yarn add @boringcodes/eslint-config eslint-config-prettier eslint-config-standard eslint-plugin-import eslint-plugin-node eslint-plugin-promise eslint-plugin-standard eslint --dev
 ```
 
 ## Usage
