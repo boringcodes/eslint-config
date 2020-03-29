@@ -10,6 +10,8 @@
   "main": "index.js",
   "scripts": {
     "purge": "rm -rf node_modules",
+    "format": "prettier --write --ignore-path .gitignore **/*.js",
+    "format:check": "prettier --check --ignore-path .gitignore **/*.js",
     "lint": "eslint --ignore-path .gitignore **/*.js",
     "release": "standard-version --no-verify",
     "release:major": "yarn release --release-as major",
@@ -17,6 +19,7 @@
     "release:patch": "yarn release --release-as patch"
   },
   "devDependencies": {
+    "@boringcodes/prettier-config": "^1.2.2",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.1",
     "eslint-config-standard": "^14.1.1",
@@ -26,6 +29,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "husky": "^4.2.3",
     "lint-staged": "^10.0.9",
+    "prettier": "^2.0.2",
     "standard-version": "^6.0.1"
   },
   "peerDependencies": {
