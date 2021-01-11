@@ -23,10 +23,10 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@boringcodes/prettier-config@^1.2.2":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@boringcodes/prettier-config/-/prettier-config-1.2.2.tgz#47336d595011930cd5aacc235e1ee5e12840fc7d"
-  integrity sha512-JaOIasT4tPGV6plBTfth1Ps1tQ54orlfTeF/TmX8EUJ2+vM9aRgnvdiTLk226y763c/zjswseUUyM2DSaqd9cw==
+"@boringcodes/prettier-config@^1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@boringcodes/prettier-config/-/prettier-config-1.3.0.tgz#d96cb3d5e47278c511018f4ab7e7fa070b0018fc"
+  integrity sha512-0XYxhabnGXtjbWBhaJ2Dy8lovxtej71hzaOjh4DSvBzf7kyDiFmGWVnI8xVaHDsmrTpjrFp9tItxJWXD029q0Q==
 
 "@eslint/eslintrc@^0.2.2":
   version "0.2.2"
@@ -858,11 +858,6 @@ eslint-plugin-promise@^4.2.1:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/eslint-plugin-promise/-/eslint-plugin-promise-4.2.1.tgz#845fd8b2260ad8f82564c1222fce44ad71d9418a"
   integrity sha512-VoM09vT7bfA7D+upt+FjeBO5eHIJQBUWki1aPvB+vbNiHS3+oGIJGIeyBtKQTME6UPXXy3vV07OL1tHd3ANuDw==
-
-eslint-plugin-standard@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-standard/-/eslint-plugin-standard-5.0.0.tgz#c43f6925d669f177db46f095ea30be95476b1ee4"
-  integrity sha512-eSIXPc9wBM4BrniMzJRBm2uoVuXz2EPa+NXPk2+itrVt+r5SbKFERx/IgrK/HmfjddyKVz2f+j+7gBRvu19xLg==
 
 eslint-scope@^5.1.1:
   version "5.1.1"
