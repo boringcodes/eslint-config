@@ -1,3 +1,3 @@
 module.exports = {
-  extends: ['standard', 'prettier', 'prettier/standard'],
+  extends: ['standard', 'prettier'],
 };

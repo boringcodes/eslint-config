@@ -34,7 +34,6 @@
 
 - [x] Standard config
 - [x] Prettier config
-- [x] Prettier - Standard conflicts removed
 
 ## Installation
 
