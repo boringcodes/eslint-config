@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.4](https://github.com/boringcodes/eslint-config/compare/v1.2.3...v1.2.4) (2021-06-06)
+
+### Bug Fixes
+
+- **husky:** add pinst to disable huskyinstall on npm publish ([548b382](https://github.com/boringcodes/eslint-config/commit/548b38213a49076e4039d7de6e1a8ed3738aaba2))
+
 ### [1.2.3](https://github.com/boringcodes/eslint-config/compare/v1.2.2...v1.2.3) (2021-06-06)
 
 ### Bug Fixes
