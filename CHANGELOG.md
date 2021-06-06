@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.2.5](https://github.com/boringcodes/eslint-config/compare/v1.2.4...v1.2.5) (2021-06-06)
+
+### Bug Fixes
+
+- **pinst:** remove pinst as no install on publish ([520f088](https://github.com/boringcodes/eslint-config/commit/520f0880d0d2abcf1656a79ed722e473f57e9dea))
+
 ### [1.2.4](https://github.com/boringcodes/eslint-config/compare/v1.2.3...v1.2.4) (2021-06-06)
 
 ### Bug Fixes

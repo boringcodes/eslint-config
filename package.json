@@ -1,6 +1,6 @@
 {
   "name": "@boringcodes/eslint-config",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "description": "Boring ESLint Config",
   "homepage": "https://github.com/boringcodes/eslint-config",
   "bugs": "https://github.com/boringcodes/eslint-config/issues",
