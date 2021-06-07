@@ -46,6 +46,9 @@
     "eslint-plugin-promise": "^5.1.0"
   },
   "prettier": "@boringcodes/prettier-config",
+  "eslintConfig": {
+    "extends": "."
+  },
   "lint-staged": {
     "*.{js,json,md,yml}": "yarn format",
     "*.js": "yarn lint"
